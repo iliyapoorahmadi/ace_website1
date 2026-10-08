@@ -1,0 +1,6 @@
+{
+  "name": "هلدینگ ایس | ACE Holding Enterprise",
+  "description": "پلتفرم جامع سرمایه‌گذاری، توسعه کسب‌وکار و راهکارهای سازمانی هلدینگ ایس (شماره ثبت ۳۶۵) با معماری هم‌افزایی اکوسیستم و ثبت سفارش آنلاین.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
